@@ -5,6 +5,9 @@
 
  Olá, me chamo Brenda Baia, tenho 23 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e também participo do curso de Programador de Sistemas pelo Senac, por meio do programa Jovem Programador.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/brendabaia/)](https://www.linkedin.com/in/brendabaia/) 
+[![Gmail Badge](https://img.shields.io/badge/-br3nd4lima@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:br3nd4lima@gmail.com)](mailto:br3nd4lima@gmail.com)
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
