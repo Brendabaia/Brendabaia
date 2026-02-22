@@ -3,7 +3,7 @@
 
 **`Desenvolvedora FullStack`**
 
- Olá, me chamo Brenda Baia, tenho 24 anos. Meu foco atual é construir uma base sólida em tecnologia, combinando a estrutura acadêmica da faculdade de Análise e Desenvolvimento de Sistemas  e com a agilidade do aprendizado autodidata. 
+ Olá, me chamo Brenda Baia, tenho 24 anos. Meu foco atual é construir uma base sólida em tecnologia, faço faculdade de Análise e Desenvolvimento de Sistemas. 
 
 ### 🤖 Linguagens e Tecnologias
 
